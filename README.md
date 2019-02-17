@@ -9,4 +9,5 @@ Used HTML, CSS, Javascript, Flask to build a data dashboard.
   
 - Back End
   - flask
+    A great article to understand python decorator: https://realpython.com/primer-on-python-decorators/
   - database
